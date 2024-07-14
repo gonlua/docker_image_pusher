@@ -6,7 +6,6 @@
 lscr.io/linuxserver/qbittorrent:4.6.5
 likun7981/hlink:latest
 gdy666/lucky:latest
-0nlylty/dockercopilot:latest
 jxxghp/moviepilot:latest
 dreamacro/clash:latest
 haishanh/yacd:latest
